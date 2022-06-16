@@ -1,1 +1,36 @@
-# tech-events
+# List of IT conferences
+
+- [JavaLand](https://www.javaland.eu/de/home/): Java, Cloud, etc.
+- [Cloudfest](https://www.cloudfest.com/): Cloud
+- [Red Hat Summit](https://www.redhat.com/en/summit)
+- [JAX](https://jax.de/): JAX Conference in Mainz, W-JAX in München, or online
+- [JCon](https://jcon.one/): Online 20-23.06.2022 or onsite somewhere in Germany in 2023
+- [ÜberConf](https://uberconf.com/): Denver, USA, 12-15.07.2022
+- [JBCNConf](https://www.jbcnconf.com/), Barcelona, Spain, 18-20.07.2022
+- [Herbstcampus](https://www.herbstcampus.de/), Nürnberg, Germany
+- [JavaZone](https://javazone.no/), Oslo, Norway, 7-8.09.2022
+- [Infobip Shift Conference](https://shift.infobip.com/)
+- [JaxLondon](https://jaxlondon.com/): London, same crew as in Mainz and München, 3-6.10.2022
+- [GoTo Copenhagen](https://gotocph.com/), Copenhagen, Danmark
+- [JavaOne](https://www.oracle.com/cloudworld/javaone/), Las Vegas, Nevada, 16-20.10.2022
+- [EclipseCon](https://www.eclipsecon.org/), Ludwigsburg, Germany
+- [DevTernity](https://devternity.com/): online
+- [Devoxx Poland](https://devoxx.pl/): Krakow, Poland, 22-24.06.2022
+- [CONFITURA](https://confitura.pl/): Warsaw, Poland, one day **Java** conference, 25.06.2022
+- [Java Forum Nord](https://javaforumnord.de/), Hannover, Germany, 06.10.2022
+- [Java Summit Israel](https://www.javasummitil.com/): Tel-Aviv, Israel, 21.11.2022
+- [Spring One](https://springone.io/), San Francisco, USA, 6-8.12.2022
+- [SDD Conf: Software Design & Development](https://sddconf.com/): London, UK, 15-19.05.2023
+- [ConFoo Montrea](https://confoo.ca/): a multi-technology conference for developers, Montreal, Canada, 22-24.02.2023
+- [WORLDWIDE SOFTWARE ARCHITECTURE SUMMIT'22](https://events.geekle.us/software_architecture/): Online Summit, 1-3.03.2022
+- [QCon London](https://qconlondon.com/): London, UK, 4-6.04.2022
+- [QCon San Francisco](https://qconsf.com/): San Francisco, USA, 24-28.10.2022
+- [QCon Plus](https://plus.qconferences.com/): Online, 29.11-09.12.2022
+- [DevNexus](https://devnexus.com/): Professional developers conference, Atlanta, USA, 12-14.04.2022
+- [Developer Week](https://www.developerweek.com/)
+- [Developer Week Europe](https://www.developerweek.com/europe): Virtual, 27-28.04.2022
+- [Developer Week Europe](https://www.developerweek.com/europe): Virtual, 27-28.04.2022
+- [Developer Week Cloud](https://www.developerweek.com/global/conference/cloud/): Virtual, 13-14.09.2022
+- [Strange Loop](https://thestrangeloop.com/): St. Louis, USA, 22-24.09.2022
+- [ArchConf 2022](https://archconf.com/): Clearwater, Florida, USA, 12-15.12.2022
+- [DockerCon](https://docker.events.cube365.net/dockercon/2022): Online, 9-10.05.2022
